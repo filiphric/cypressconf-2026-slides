@@ -338,7 +338,7 @@ layout: illustration
 class: thank-you
 ---
 
-# Thank you!
+# Thank *you!*
 
 Filip Hric
 
@@ -346,11 +346,11 @@ Filip Hric
 
 <div class="thank-you-qr-links">
   <a href="https://slides.filiphric.com/cypressconf-2026/">
-    <img src="/images/thank-you/slides-qr.png" alt="QR code for the CypressConf 2026 presentation" />
+    <span class="qr-print"><img src="/images/thank-you/slides-qr.png" alt="QR code for the CypressConf 2026 presentation" /></span>
     <span>slides here</span>
   </a>
   <a href="https://links.filiphric.com">
-    <img src="/images/thank-you/connect-qr.png" alt="QR code for Filip Hric's links" />
+    <span class="qr-print"><img src="/images/thank-you/connect-qr.png" alt="QR code for Filip Hric's links" /></span>
     <span>connect with me</span>
   </a>
 </div>
