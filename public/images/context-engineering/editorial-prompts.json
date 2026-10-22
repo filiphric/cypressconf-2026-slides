@@ -1,0 +1,52 @@
+{
+  "generator": "Built-in image_gen",
+  "images": [
+    {
+      "name": "finite-window-v3",
+      "ref": "finite-window-v2",
+      "prompt": "Use case: style-transfer. Edit the supplied schematic, preserving its information structure EXACTLY. Aim for a restrained editorial print diagram matching filiphric.com: warm off-white uncoated paper background, subtle fine fiber grain, muted teal cut-paper rectangular field, near-black ink, yellow agent-message papers and vermilion accents. Give rectangular paper edges a tiny handmade imperfection, less than 1 percent wobble; extremely shallow contact shadow is allowed for message sheets ONLY. Use bold clean grotesque typography similar to Archivo. Clean hierarchy and abundant whitespace are essential. Keep all labels spelled correctly and positions, proportions, counts and reading order locked to the reference. Flat front-on diagram, no perspective, no 3D, no realistic physical objects, no added arrows or icons, no collage clutter, no background torn scraps, no decorative text. Avoid smudging small text. Editorial feeling must come from paper and ink, never extra objects. Do not tint the entire image beige; use a light warm-white paper, close to #F8F5EE. Preserve the empty tall outlined rectangle and its large completely empty white interior. Retain 'Context window' above. Give the outer teal rectangular backing the feel of a precisely cut colored sheet with a fine ink outline. Do not add contents. Landscape 3:2, same composition."
+    },
+    {
+      "name": "first-exchange-v3",
+      "ref": "first-exchange-v2",
+      "prompt": "Use case: style-transfer. Edit the supplied schematic, preserving its information structure EXACTLY. Aim for a restrained editorial print diagram matching filiphric.com: warm off-white uncoated paper background, subtle fine fiber grain, muted teal cut-paper rectangular field, near-black ink, yellow agent-message papers and vermilion accents. Give rectangular paper edges a tiny handmade imperfection, less than 1 percent wobble; extremely shallow contact shadow is allowed for message sheets ONLY. Use bold clean grotesque typography similar to Archivo. Clean hierarchy and abundant whitespace are essential. Keep all labels spelled correctly and positions, proportions, counts and reading order locked to the reference. Flat front-on diagram, no perspective, no 3D, no realistic physical objects, no added arrows or icons, no collage clutter, no background torn scraps, no decorative text. Avoid smudging small text. Editorial feeling must come from paper and ink, never extra objects. Do not tint the entire image beige; use a light warm-white paper, close to #F8F5EE. Keep exactly TWO message rectangles near the top of the tall teal context rectangle, ivory 'User message' first and soft yellow 'Agent message' second. They should feel like two flat rectangular pieces of paper placed neatly on a colored rectangular sheet. Thin ink outlines; subtle hand-cut edges but absolutely horizontal and aligned. Preserve blank space below and the two abstract ink content strokes per message. Retain 'Context window' above. Landscape 3:2."
+    },
+    {
+      "name": "conversation-history-v3",
+      "ref": "conversation-history-v2",
+      "prompt": "Use case: style-transfer. Edit the supplied schematic, preserving its information structure EXACTLY. Aim for a restrained editorial print diagram matching filiphric.com: warm off-white uncoated paper background, subtle fine fiber grain, muted teal cut-paper rectangular field, near-black ink, yellow agent-message papers and vermilion accents. Give rectangular paper edges a tiny handmade imperfection, less than 1 percent wobble; extremely shallow contact shadow is allowed for message sheets ONLY. Use bold clean grotesque typography similar to Archivo. Clean hierarchy and abundant whitespace are essential. Keep all labels spelled correctly and positions, proportions, counts and reading order locked to the reference. Flat front-on diagram, no perspective, no 3D, no realistic physical objects, no added arrows or icons, no collage clutter, no background torn scraps, no decorative text. Avoid smudging small text. Editorial feeling must come from paper and ink, never extra objects. Do not tint the entire image beige; use a light warm-white paper, close to #F8F5EE. Keep EXACTLY SIX aligned message papers, alternating ivory 'User message', soft yellow 'Agent message' three times. Same spacing, same teal rectangle boundary, same bracket spanning six messages on right, same 'Conversation history' label. No overlapping or tilted sheets; every message entirely visible, distinguishable, within boundary. Printed-paper craft feeling, a little texture in the colored sheet. Landscape 3:2."
+    },
+    {
+      "name": "capacity-and-recall-v3",
+      "ref": "capacity-and-recall-v2",
+      "prompt": "Use case: style-transfer. Edit the supplied schematic, preserving its information structure EXACTLY. Aim for a restrained editorial print diagram matching filiphric.com: warm off-white uncoated paper background, subtle fine fiber grain, muted teal cut-paper rectangular field, near-black ink, yellow agent-message papers and vermilion accents. Give rectangular paper edges a tiny handmade imperfection, less than 1 percent wobble; extremely shallow contact shadow is allowed for message sheets ONLY. Use bold clean grotesque typography similar to Archivo. Clean hierarchy and abundant whitespace are essential. Keep all labels spelled correctly and positions, proportions, counts and reading order locked to the reference. Flat front-on diagram, no perspective, no 3D, no realistic physical objects, no added arrows or icons, no collage clutter, no background torn scraps, no decorative text. Avoid smudging small text. Editorial feeling must come from paper and ink, never extra objects. Do not tint the entire image beige; use a light warm-white paper, close to #F8F5EE. THIS MUST REMAIN A PRECISE LINE GRAPH. Do not wobble axes, grid, points or connecting lines, and do not add cut-paper decoration in plotting area. Restrained paper grain and printed-ink finish only; title may use bold Archivo-like type. Preserve every point, line segment, tick, label and pale red highlight region in the reference. Eight categorical buckets left to right: 4–8K, 8–16K, 16–32K, 32–64K, 64–128K, 128–256K, 256–512K, 512K–1M. Accuracy values: 97.5%, 93%, 95%, 90%, 86%, 79.5%, 57.5%, 36%. Y-axis ticks 20%,40%,60%,80%,100% evenly spaced. First six points teal; final two red. Title 'GPT-5.4 · MRCR v2, 8-needle'. Y label 'Accuracy'; X label 'Context window range (tokens)'. Preserve slight upturn at third point and steep decline in final two. Landscape 2:1, ALL text clear."
+    },
+    {
+      "name": "focused-context-v3",
+      "ref": "focused-context-v2",
+      "prompt": "Use case: style-transfer. Edit the supplied schematic, preserving its information structure EXACTLY. Aim for a restrained editorial print diagram matching filiphric.com: warm off-white uncoated paper background, subtle fine fiber grain, muted teal cut-paper rectangular field, near-black ink, yellow agent-message papers and vermilion accents. Give rectangular paper edges a tiny handmade imperfection, less than 1 percent wobble; extremely shallow contact shadow is allowed for message sheets ONLY. Use bold clean grotesque typography similar to Archivo. Clean hierarchy and abundant whitespace are essential. Keep all labels spelled correctly and positions, proportions, counts and reading order locked to the reference. Flat front-on diagram, no perspective, no 3D, no realistic physical objects, no added arrows or icons, no collage clutter, no background torn scraps, no decorative text. Avoid smudging small text. Editorial feeling must come from paper and ink, never extra objects. Do not tint the entire image beige; use a light warm-white paper, close to #F8F5EE. Keep the single outlined upright context rectangle, divided into exactly two contiguous rectangular paper-color fields, teal upper 65 percent 'Smart zone', vermilion lower 35 percent 'Dumb zone'. Preserve border and horizontal divider; no floating labels, symbols, illustrations, or messages. The colored areas should feel like carefully aligned two flat pieces of colored paper. Retain 'Context window' above, and 'Conceptual zones — no fixed threshold' below. Landscape 3:2."
+    }
+  ],
+  "assets": [
+    {
+      "name": "finite-window-v3",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-6a4f1e8b-070a-46c9-8060-6f34dcc8a4d2.png"
+    },
+    {
+      "name": "first-exchange-v3",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-0111c841-8b71-4bc1-b630-43ff00ee80be.png"
+    },
+    {
+      "name": "conversation-history-v3",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-8e694223-5411-4e0d-8de1-077a791fb36f.png"
+    },
+    {
+      "name": "capacity-and-recall-v3",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-84a03d35-e2ac-47e4-81b2-b1b7538ed839.png"
+    },
+    {
+      "name": "focused-context-v3",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-91b30ffc-0542-4257-abe0-94b237fe4c27.png"
+    }
+  ]
+}

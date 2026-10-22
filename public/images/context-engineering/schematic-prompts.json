@@ -1,0 +1,52 @@
+{
+  "generator": "Built-in image_gen",
+  "images": [
+    {
+      "name": "finite-window-v2",
+      "ref": "ContextWindowEmpty",
+      "prompt": "Use case: infographic-diagram. Create a SIMPLE FLAT SCHEMATIC for a conference slide, matching the structure of the supplied reference image. Use warm ivory #EFEAE0 background, near-black #151412 outlines, restrained muted teal #A3CFCB and pale yellow #FFE234 message papers, vermilion #E5432F for warnings. Clean editorial diagram, subtle paper grain only, crisp geometric rectangular forms. NO photographic objects, NO desk trays, NO computers, NO hands, NO magnifying glasses, NO speech bubbles, NO 3D perspective, NO decorative collage, NO halftone fields. Bold clear labels, large sans-serif type. Diagram fills the canvas with generous margins. Landscape 3:2. One large upright colored rectangular field in muted teal with a black rectangular outline, labeled 'Context window' above. Inside it a large blank warm-white rectangular sheet area. Completely empty bounded space. No messages yet. This rectangle is a capacity diagram, not a literal physical tray. Keep the composition extremely minimal, just like the supplied original."
+    },
+    {
+      "name": "first-exchange-v2",
+      "ref": "ContextWindowMessage1",
+      "prompt": "Use case: infographic-diagram. Create a SIMPLE FLAT SCHEMATIC for a conference slide, matching the structure of the supplied reference image. Use warm ivory #EFEAE0 background, near-black #151412 outlines, restrained muted teal #A3CFCB and pale yellow #FFE234 message papers, vermilion #E5432F for warnings. Clean editorial diagram, subtle paper grain only, crisp geometric rectangular forms. NO photographic objects, NO desk trays, NO computers, NO hands, NO magnifying glasses, NO speech bubbles, NO 3D perspective, NO decorative collage, NO halftone fields. Bold clear labels, large sans-serif type. Diagram fills the canvas with generous margins. Landscape 3:2. One large upright muted-teal rectangular field outlined near-black labeled 'Context window' above. Inside near the top exactly TWO flat rectangular paper strips, neatly stacked with a small gap. First is ivory with a red small label 'User message'. Second is pale yellow with a black small label 'Agent message'. Each strip has just two short dark strokes to suggest content. Most of the lower rectangle remains empty. No icons, arrows or other objects. Flat simple schematic, same structural form as original reference."
+    },
+    {
+      "name": "conversation-history-v2",
+      "ref": "ContextWindowMessage2",
+      "prompt": "Use case: infographic-diagram. Create a SIMPLE FLAT SCHEMATIC for a conference slide, matching the structure of the supplied reference image. Use warm ivory #EFEAE0 background, near-black #151412 outlines, restrained muted teal #A3CFCB and pale yellow #FFE234 message papers, vermilion #E5432F for warnings. Clean editorial diagram, subtle paper grain only, crisp geometric rectangular forms. NO photographic objects, NO desk trays, NO computers, NO hands, NO magnifying glasses, NO speech bubbles, NO 3D perspective, NO decorative collage, NO halftone fields. Bold clear labels, large sans-serif type. Diagram fills the canvas with generous margins. Landscape 3:2. Same large upright muted-teal context rectangle outlined near-black, label 'Context window'. Inside six flat rectangular paper strips stacked with narrow gaps, alternating ivory 'User message' then pale yellow 'Agent message', repeated exactly three times. All six fit inside the fixed rectangular outline. Each paper has two tiny dark strokes as abstract content. One simple black bracket on the right spans all six strips, labeled 'Conversation history'. The bottom of the context rectangle still has some empty space. Diagram, not collage. No arrows to a computer or physical objects."
+    },
+    {
+      "name": "capacity-and-recall-v2",
+      "ref": "LongContext",
+      "prompt": "Use case: infographic-diagram. Create a SIMPLE FLAT SCHEMATIC for a conference slide, matching the structure of the supplied reference image. Use warm ivory #EFEAE0 background, near-black #151412 outlines, restrained muted teal #A3CFCB and pale yellow #FFE234 message papers, vermilion #E5432F for warnings. Clean editorial diagram, subtle paper grain only, crisp geometric rectangular forms. NO photographic objects, NO desk trays, NO computers, NO hands, NO magnifying glasses, NO speech bubbles, NO 3D perspective, NO decorative collage, NO halftone fields. Bold clear labels, large sans-serif type. Diagram fills the canvas with generous margins. Redraw the supplied benchmark as a real, precise, legible LINE GRAPH, landscape 2:1. Preserve the source data and labels: eight equally spaced categorical x-axis buckets '4–8K', '8–16K', '16–32K', '32–64K', '64–128K', '128–256K', '256–512K', '512K–1M'. Y axis 'Accuracy' from 20% at bottom to 100% at top, labeled ticks at 20%,40%,60%,80%,100%, faint horizontal grid lines. Points respectively 97.5%,93%,95%,90%,86%,79.5%,57.5%,36%, connected by straight segments, first six points dark teal, final two red; each point labeled with its value. Line slightly dips, rises at third point, then declines gently through sixth, steeply over last two. Very pale red background band behind final two buckets, no opaque red obscuring values. X-axis label 'Context window range (tokens)'. Small top subtitle 'GPT-5.4 · MRCR v2, 8-needle'. Use large crisp sans-serif type, near-black axes, warm ivory ground. Retain actual graph appearance, no metaphors or physical objects, no extra values. Avoid restating the big slide title. Source attribution belongs in speaker notes, not this image."
+    },
+    {
+      "name": "focused-context-v2",
+      "ref": "Zones",
+      "prompt": "Use case: infographic-diagram. Create a SIMPLE FLAT SCHEMATIC for a conference slide, matching the structure of the supplied reference image. Use warm ivory #EFEAE0 background, near-black #151412 outlines, restrained muted teal #A3CFCB and pale yellow #FFE234 message papers, vermilion #E5432F for warnings. Clean editorial diagram, subtle paper grain only, crisp geometric rectangular forms. NO photographic objects, NO desk trays, NO computers, NO hands, NO magnifying glasses, NO speech bubbles, NO 3D perspective, NO decorative collage, NO halftone fields. Bold clear labels, large sans-serif type. Diagram fills the canvas with generous margins. Landscape 3:2. One large upright rectangular outlined context window. Inside two simple stacked rectangular fields: upper 65 percent muted teal, lower 35 percent pale vermilion. Upper centered label 'Smart zone' in bold black. Lower centered label 'Dumb zone' in bold black. Above the outline label 'Context window'. Small clear note beneath rectangle 'Conceptual zones — no fixed threshold'. Preserve the original's simple two-zone schematic, no tray, no reset arrow, no papers, no extra objects. Flat colored rectangular blocks, no gradient."
+    }
+  ],
+  "assets": [
+    {
+      "name": "finite-window-v2",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-d962bc6b-a31f-4d5c-8560-73e33b791b48.png"
+    },
+    {
+      "name": "first-exchange-v2",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-5cf5c0e3-d090-49b5-bb0a-058a840528da.png"
+    },
+    {
+      "name": "conversation-history-v2",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-217a7d94-bea5-4a7d-afc9-0fdfcd201a05.png"
+    },
+    {
+      "name": "capacity-and-recall-v2",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-ef1011f5-2526-4e0c-826a-0202978750b9.png"
+    },
+    {
+      "name": "focused-context-v2",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-908b4525-d9f4-40dc-9a2c-d2e8a9e26a1d.png"
+    }
+  ]
+}

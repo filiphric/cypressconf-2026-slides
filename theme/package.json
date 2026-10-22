@@ -1,0 +1,16 @@
+{
+  "name": "slidev-theme-filiphric",
+  "private": true,
+  "version": "1.0.0",
+  "slidev": {
+    "defaults": {
+      "colorSchema": "light",
+      "fonts": {
+        "sans": "Archivo",
+        "serif": "Instrument Serif",
+        "mono": "IBM Plex Mono",
+        "provider": "none"
+      }
+    }
+  }
+}

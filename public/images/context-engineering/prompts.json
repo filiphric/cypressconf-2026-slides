@@ -1,0 +1,55 @@
+{
+  "generator": "Built-in image_gen",
+  "images": [
+    {
+      "name": "finite-window",
+      "prompt": "Use case: illustration-story. Asset type: a square editorial illustration in a coordinated educational sequence for a conference presentation about LLM context engineering. Cut-paper editorial photomontage matching filiphric.com: grayscale photographic object cutouts with cream paper edges, warm ivory #EFEAE0 background, muted teal #A3CFCB paper, vermilion #E5432F accents, small yellow #FFE234 pieces, navy #173E5F, sparse black halftone dots and fine paper grain, modest physical contact shadows. Strong simple composition readable on a slide; use a physical paper document tray as a metaphor for finite working memory. NO words, letters, numerals, logos or watermark. No humans, faces, robots, glossy 3D, neon or charts. 1:1 square with 10% safe margins. This is a conceptual metaphor, not a factual plot or literal model architecture. Subject: one empty shallow rectangular document tray photographed at a three-quarter overhead angle. Clearly defined rigid four sides, limited footprint, blank ivory interior, black or gray metal rim; muted teal cut-paper backing. A short yellow strip on the far rim emphasizes its fixed boundary. A tiny grayscale RAM memory module beside the tray suggests computer working memory. The tray is entirely EMPTY, abundant unused space. No sheets, no arrows. A single large object, restrained editorial collage."
+    },
+    {
+      "name": "first-exchange",
+      "prompt": "Use case: illustration-story. Asset type: a square editorial illustration in a coordinated educational sequence for a conference presentation about LLM context engineering. Cut-paper editorial photomontage matching filiphric.com: grayscale photographic object cutouts with cream paper edges, warm ivory #EFEAE0 background, muted teal #A3CFCB paper, vermilion #E5432F accents, small yellow #FFE234 pieces, navy #173E5F, sparse black halftone dots and fine paper grain, modest physical contact shadows. Strong simple composition readable on a slide; use a physical paper document tray as a metaphor for finite working memory. NO words, letters, numerals, logos or watermark. No humans, faces, robots, glossy 3D, neon or charts. 1:1 square with 10% safe margins. This is a conceptual metaphor, not a factual plot or literal model architecture. Subject: one shallow rectangular document tray at a three-quarter overhead angle. INSIDE the tray, exactly two oversized paper speech balloons lie in a neat stack near the upper edge: one teal prompt balloon and one yellow reply balloon, each blank. Most of the bounded tray is empty. A single short red arrow between the two balloons suggests a prompt followed by a reply. Emphasize that BOTH messages occupy the same finite working area. Gray metal rim, ivory interior, muted teal cut-paper backing, sparse halftone. Minimal scene."
+    },
+    {
+      "name": "conversation-history",
+      "prompt": "Use case: illustration-story. Asset type: a square editorial illustration in a coordinated educational sequence for a conference presentation about LLM context engineering. Cut-paper editorial photomontage matching filiphric.com: grayscale photographic object cutouts with cream paper edges, warm ivory #EFEAE0 background, muted teal #A3CFCB paper, vermilion #E5432F accents, small yellow #FFE234 pieces, navy #173E5F, sparse black halftone dots and fine paper grain, modest physical contact shadows. Strong simple composition readable on a slide; use a physical paper document tray as a metaphor for finite working memory. NO words, letters, numerals, logos or watermark. No humans, faces, robots, glossy 3D, neon or charts. 1:1 square with 10% safe margins. This is a conceptual metaphor, not a factual plot or literal model architecture. Subject: one shallow rectangular document tray at a three-quarter overhead angle now containing a growing neat stack of six alternating teal and yellow blank speech balloons, with the latest small red blank speech balloon on top. A single broad navy paper arrow wraps around the ENTIRE stack and points toward a grayscale retro computer at right, screen black with no details, showing the whole history being sent together. The arrow must encircle and carry the full stack, not only the red latest message. Limited tray boundary still visible; no balloons spill outside. Clear large shapes."
+    },
+    {
+      "name": "capacity-and-recall",
+      "prompt": "Use case: illustration-story. Asset type: a square editorial illustration in a coordinated educational sequence for a conference presentation about LLM context engineering. Cut-paper editorial photomontage matching filiphric.com: grayscale photographic object cutouts with cream paper edges, warm ivory #EFEAE0 background, muted teal #A3CFCB paper, vermilion #E5432F accents, small yellow #FFE234 pieces, navy #173E5F, sparse black halftone dots and fine paper grain, modest physical contact shadows. Strong simple composition readable on a slide; use a physical paper document tray as a metaphor for finite working memory. NO words, letters, numerals, logos or watermark. No humans, faces, robots, glossy 3D, neon or charts. 1:1 square with 10% safe margins. This is a conceptual metaphor, not a factual plot or literal model architecture. Subject: two contrasting editorial paper archives side by side, a small orderly stack on the left and a much larger deep crowded stack on the right. Each stack contains one identical bright red paper tab to be retrieved. On left the tab protrudes clearly and a grayscale magnifying glass isolates it; on right the tiny red tab is almost buried among many overlapping monochrome pages, with a second magnifying glass searching the densely layered archive. Same important clue, much more material to inspect. A physical metaphor for increasing capacity not guaranteeing reliable retrieval; NOT a graph, no axes, no scores, no promises of a universal threshold. Sparse teal backing and yellow accent."
+    },
+    {
+      "name": "focused-context",
+      "prompt": "Use case: illustration-story. Asset type: a square editorial illustration in a coordinated educational sequence for a conference presentation about LLM context engineering. Cut-paper editorial photomontage matching filiphric.com: grayscale photographic object cutouts with cream paper edges, warm ivory #EFEAE0 background, muted teal #A3CFCB paper, vermilion #E5432F accents, small yellow #FFE234 pieces, navy #173E5F, sparse black halftone dots and fine paper grain, modest physical contact shadows. Strong simple composition readable on a slide; use a physical paper document tray as a metaphor for finite working memory. NO words, letters, numerals, logos or watermark. No humans, faces, robots, glossy 3D, neon or charts. 1:1 square with 10% safe margins. This is a conceptual metaphor, not a factual plot or literal model architecture. Subject: two shallow rectangular document trays side by side at a three-quarter overhead angle with a broad red paper reset arrow moving from the crowded LEFT tray to the focused RIGHT tray. Left tray contains a cluttered stack of many overlapping gray scraps and old blank speech balloons. Right tray contains only three carefully chosen clean ivory sheets, one yellow task card and a single teal speech balloon, neatly organized with generous empty space around them. A small grayscale cutout hand selecting one important yellow sheet is optional but do not show people. Clearly show selecting relevant context for a fresh working session, NOT retaining everything. Strong simple silhouettes, no symbols implying guaranteed correctness."
+    },
+    {
+      "name": "rules-demo",
+      "prompt": "Use case: illustration-story. Asset type: square editorial collage illustration for a conference presentation slide titled Demo. Match filiphric.com: grayscale photographic cutouts with cream paper edges on warm ivory #EFEAE0 paper, muted teal #A3CFCB backing, vermilion #E5432F and yellow #FFE234 accents, sparse black halftone, subtle tactile paper grain and contact shadows. Subject: a grayscale open laptop showing a few large abstract code strokes and a yellow instruction sheet beside it; a human hand pulls a large red paper play triangle into the foreground, suggesting switching from a concept to a live hands-on demonstration. Strong simple focal point, sophisticated magazine editorial photomontage, large shapes readable on a presentation. No words, letters, numerals, logos or watermark. No neon, glossy 3D, cartoons, humanoid robots. 1:1 square, generous safe margins."
+    }
+  ],
+  "assets": [
+    {
+      "name": "finite-window",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-7f510d01-f00a-445d-a8a3-53d85bf602cd.png"
+    },
+    {
+      "name": "first-exchange",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-5b5904c9-5e1d-48e6-aa5c-1dee541f2774.png"
+    },
+    {
+      "name": "conversation-history",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-dc0aa1c0-cfc8-4ebe-bcba-49af91eefa6a.png"
+    },
+    {
+      "name": "capacity-and-recall",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-fd35bd00-5313-490e-9bc0-0fb64d6e26ab.png"
+    },
+    {
+      "name": "focused-context",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-6ca5e742-2983-4327-8ec4-96b2cb31185a.png"
+    },
+    {
+      "name": "rules-demo",
+      "source": "/Users/filiphric/.codex/generated_images/01a162c6-d583-7452-bd66-ba49331aaa97/exec-9273613b-a197-4228-b628-3b1d1fd201fb.png"
+    }
+  ]
+}
