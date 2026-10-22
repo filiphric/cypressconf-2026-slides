@@ -280,3 +280,26 @@
   height: 392px;
   object-fit: contain;
 }
+
+/* High-contrast QR codes with an intact quiet zone for the closing slide. */
+.thank-you-qr-links {
+  display: flex;
+  gap: 28px;
+  margin-top: 24px;
+}
+.editorial .thank-you-qr-links a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  color: var(--ink);
+  font-size: 17px;
+  font-weight: 700;
+  text-decoration: none;
+}
+.thank-you-qr-links img {
+  display: block;
+  width: 144px;
+  height: 144px;
+  background: white;
+}

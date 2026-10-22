@@ -335,6 +335,7 @@ Illustration generated with built-in image_gen. Prompt: ./public/images/putting-
 
 ---
 layout: illustration
+class: thank-you
 ---
 
 # Thank you!
@@ -342,6 +343,17 @@ layout: illustration
 Filip Hric
 
 [filiphric.com](https://filiphric.com)
+
+<div class="thank-you-qr-links">
+  <a href="https://slides.filiphric.com/cypressconf-2026/">
+    <img src="/images/thank-you/slides-qr.png" alt="QR code for the CypressConf 2026 presentation" />
+    <span>slides here</span>
+  </a>
+  <a href="https://links.filiphric.com">
+    <img src="/images/thank-you/connect-qr.png" alt="QR code for Filip Hric's links" />
+    <span>connect with me</span>
+  </a>
+</div>
 
 ::image::
 
